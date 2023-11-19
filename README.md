@@ -32,8 +32,8 @@ Compare Q-Learning policy and state values with Monte Carlo results for the give
 
 ## Q LEARNING FUNCTION :
 ```
-Name   : DHANUSH S
-Reg No : 212221230020
+Name   : Shankar Saradha
+Reg No : 212221230052
 ```
 ```python
 
